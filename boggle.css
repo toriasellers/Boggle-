@@ -1,0 +1,42 @@
+.board {
+    color: #defcf9;
+    font-family: cursive;
+    margin: auto;
+  width: 30%;
+  border: 2px;
+  padding: 20px;
+  font-size: 40px;
+  text-shadow: 2px 2px 2px rgb(101, 46, 174);
+}
+
+#boggle {
+    color: #cadefc;
+    font-family: cursive;
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+}
+
+#score {
+    color: #c3bef0;
+    font-family: cursive;
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+}
+
+body {
+    background-image: linear-gradient(to bottom right,  #cca8e9, #794AFF);
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+h1 {
+    font-size: large;
+}
+
+
+
